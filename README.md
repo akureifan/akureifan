@@ -1,56 +1,44 @@
-<!-- Minimal Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=140&section=header&text=Reifan%20Hanafi&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-
-<br/>
+<!-- ===== Futuristic Animated Header ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=AKUREIFAN&fontSize=40&fontColor=00E7FF&animation=twinkling"/>
 
 <p align="center">
-  Frontend Developer · UI Enthusiast · Web Designer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00E7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI+Designer;HTML+%7C+CSS+%7C+JavaScript;Tailwind+%7C+Laravel+Basic" />
 </p>
 
 ---
 
-## Profile
-
-I am a Software Engineering student focused on frontend development and user interface design.  
-I enjoy building clean layouts, structured components, and modern responsive websites.
-
-Currently improving my JavaScript skills and learning backend fundamentals with PHP and Laravel.
-
----
-
-## Core Skills
-
-HTML · CSS · JavaScript · Tailwind CSS  
-UI Layouting · Responsive Design · Component Structuring  
-Basic PHP · Laravel · MySQL  
-
----
-
-## Selected Work
-
-**Serbu Computer**  
-E-commerce interface with structured layout and responsive design.
-
-**Sotokhasbanjar**  
-Content-driven website with branding and visual consistency focus.
-
-**Library Management System**  
-Web application combining clean UI with basic backend logic.
-
----
-
-## GitHub Overview
+## Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,mysql,git,vscode" />
 </p>
 
 ---
 
+## About Me
+
+Frontend-focused developer who enjoys building modern, responsive, and visually structured interfaces.
+
+Comfortable with HTML, CSS, JavaScript, and Tailwind.  
+Currently strengthening backend fundamentals using PHP and Laravel.
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  Consistency beats intensity.
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureifan&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
