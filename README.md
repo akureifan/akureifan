@@ -24,16 +24,11 @@ Currently improving backend fundamentals using PHP and Laravel.
 
 ---
 
-## Selected Projects
+## Contribution Activity
 
-### Serbu Computer  
-E-commerce interface with responsive layout and structured components.
-
-### Sotokhasbanjar  
-Branding-focused content website with consistent visual design.
-
-### Library Management System  
-Web application combining clean frontend and basic backend logic.
+<p align="center">
+  <img src="https://github.com/akureifan/akureifan/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
