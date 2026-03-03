@@ -24,11 +24,19 @@ Currently strengthening backend fundamentals using PHP and Laravel.
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureifan&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
