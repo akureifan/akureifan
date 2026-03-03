@@ -17,20 +17,20 @@
 
 ## About Me
 
-Frontend-focused developer building modern and responsive web interfaces.
+Frontend-focused developer who enjoys building modern, responsive, and visually structured interfaces.
 
-Strong in layout structuring, clean UI design, and component-based development.  
-Currently improving backend fundamentals using PHP and Laravel.
+Comfortable with HTML, CSS, JavaScript, and Tailwind.  
+Currently strengthening backend fundamentals using PHP and Laravel.
 
 ---
 
-## Contribution Activity
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github.com/akureifan/akureifan/blob/output/github-contribution-grid-snake.svg" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-<!-- ===== Animated Footer ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
