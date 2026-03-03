@@ -1,26 +1,31 @@
-<h1 align="center">Muhammad Reifan Hanafi</h1>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Muhammad%20Reifan%20Hanafi&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 <p align="center">
-Vocational High School Student – Software Engineering (RPL)<br>
-Focused on Web Development & Backend Development
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer+in+Progress;Laravel+%7C+PHP+%7C+MySQL;Building+Web+Applications" />
 </p>
 
 ---
 
 ## About Me
-- Student at SMK Negeri 6 Malang
-- Interested in Backend Development
+
+- Student of Software Engineering (RPL)
+- Focused on Backend Development
 - Currently learning Laravel and improving database design skills
-- Building school and personal web projects
+- Building web applications for school and personal projects
 
 ---
 
 ## Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
@@ -33,12 +38,17 @@ Web-based library system using PHP and MySQL.
 E-commerce website built with Laravel.
 
 ### Sotokhasbanjar Website
-Content-based website about Banjar cuisine and branding.
+Content and branding website about Banjar cuisine.
 
 ---
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
