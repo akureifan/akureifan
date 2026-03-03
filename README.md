@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Reifan Hanafi
 
-<!--
-**akureifan/akureifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student of SMK Negeri 6 Malang  
+💻 Major: Software Engineering (RPL)  
+🚀 Passionate about Web Development & Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently working on Web Development Projects
+- 🌱 I’m learning Laravel & Backend Development
+- 💡 Interested in UI/UX and Database Design
+- 📚 Love building school and personal projects
+- 📍 From Indonesia
+
+---
+
+## 🛠️ Tech Stack
+- 💻 PHP
+- ⚡ Laravel
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ MySQL
+- 🎨 Tailwind CSS
+- 🔧 Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Reifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+- 🌐 Portfolio: (isi nanti kalau sudah ada)
+- 📧 Email: (opsional)
