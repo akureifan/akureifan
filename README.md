@@ -17,28 +17,25 @@
 
 ## About Me
 
-Frontend-focused developer who enjoys building modern, responsive, and visually structured interfaces.
+Frontend-focused developer building modern and responsive web interfaces.
 
-Comfortable with HTML, CSS, JavaScript, and Tailwind.  
-Currently strengthening backend fundamentals using PHP and Laravel.
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akureifan&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akureifan&layout=compact&theme=radical&hide_border=true"/>
-</p>
+Strong in layout structuring, clean UI design, and component-based development.  
+Currently improving backend fundamentals using PHP and Laravel.
 
 ---
 
-## Activity Graph
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureifan&theme=react-dark&hide_border=true"/>
-</p>
+### Serbu Computer  
+E-commerce interface with responsive layout and structured components.
+
+### Sotokhasbanjar  
+Branding-focused content website with consistent visual design.
+
+### Library Management System  
+Web application combining clean frontend and basic backend logic.
 
 ---
 
+<!-- ===== Animated Footer ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer"/>
