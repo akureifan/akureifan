@@ -36,7 +36,7 @@ Currently strengthening backend fundamentals with PHP and Laravel.
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode" />
-  <img src="https://cdn.simpleicons.org/laragon/145A32" height="48"/>
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="48"/>
 </p>
 
 ---
