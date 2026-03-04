@@ -20,22 +20,22 @@ Currently strengthening backend fundamentals with PHP and Laravel.
 
 ### Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="48"/>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" height="48"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="48"/>
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" height="48"/>
   <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="48"/>
 </p>
 
