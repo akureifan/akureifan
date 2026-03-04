@@ -20,7 +20,6 @@ Currently strengthening backend fundamentals with PHP and Laravel.
 ### Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="48"/>
 </p>
 
 ### Frontend
